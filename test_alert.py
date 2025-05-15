@@ -1,0 +1,1 @@
+from wtsp_alert.alert import enviar_whatsapp
